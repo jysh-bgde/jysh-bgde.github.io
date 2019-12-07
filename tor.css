@@ -1,0 +1,45 @@
+.body
+{ background-repeat: no-repeat;
+  background-image: url(tor.jpg);
+width: 100%;
+height: 100%;
+}
+
+.topnav {
+  background-color: yellow;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: cursive;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+font-family: cursive;
+}
+
+
+.topnav a:active {
+  background-color: #4CAF50;
+  color: white;
+  font-family: cursive;
+}
+
+.tor
+{ padding-top: 20px;
+  margin-top: 20px;
+  color: blue;
+  font-family: cursive;
+  font-size: 20px;
+}
